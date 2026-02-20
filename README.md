@@ -211,3 +211,7 @@ DHCP Server Tasks
 	
   •	Configure DHCP failover and high availability
 
+# Conclusion
+This Project demonstrates the setup and configuration of a windows server enviroment with Active Directory Domain Server, DNS and DHCP, along with basic administrative tasks. It demonstrates practical skills in server administration, network configuration and user and computer management with a domain. The project reflects hand-on experience in maintaining a sercure and functional enviroment, which is directly relevant to IT and Cybersecurity roles.
+
+
